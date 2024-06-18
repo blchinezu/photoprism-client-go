@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"os"
 
-	photoprism "github.com/drummonds/photoprism-client-go"
+	photoprism "github.com/blchinezu/photoprism-client-go"
 
 	"github.com/kris-nova/logger"
 )

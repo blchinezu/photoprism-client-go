@@ -19,7 +19,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drummonds/photoprism-client-go/api/v1"
+	"github.com/blchinezu/photoprism-client-go/api/v1"
 )
 
 //TODO Test GetPhotos()

@@ -1,4 +1,4 @@
-module github.com/drummonds/photoprism-client-go
+module github.com/blchinezu/photoprism-client-go
 
 go 1.19
 

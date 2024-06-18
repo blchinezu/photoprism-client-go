@@ -21,7 +21,7 @@ import (
 
 	"github.com/kris-nova/logger"
 
-	"github.com/drummonds/photoprism-client-go"
+	"github.com/blchinezu/photoprism-client-go"
 )
 
 type SampleApplication struct {

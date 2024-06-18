@@ -15,9 +15,9 @@
 package main
 
 import (
-	photoprism "github.com/drummonds/photoprism-client-go"
-	"github.com/drummonds/photoprism-client-go/api/v1"
-	common "github.com/drummonds/photoprism-client-go/examples/common"
+	photoprism "github.com/blchinezu/photoprism-client-go"
+	"github.com/blchinezu/photoprism-client-go/api/v1"
+	common "github.com/blchinezu/photoprism-client-go/examples/common"
 
 	"github.com/kris-nova/logger"
 )

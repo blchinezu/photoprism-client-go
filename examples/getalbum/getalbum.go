@@ -16,8 +16,8 @@ package main
 import (
 	"fmt"
 
-	photoprism "github.com/drummonds/photoprism-client-go"
-	common "github.com/drummonds/photoprism-client-go/examples/common"
+	photoprism "github.com/blchinezu/photoprism-client-go"
+	common "github.com/blchinezu/photoprism-client-go/examples/common"
 	"github.com/kris-nova/logger"
 )
 

@@ -16,7 +16,7 @@ package test
 import (
 	"testing"
 
-	"github.com/drummonds/photoprism-client-go/api/v1"
+	"github.com/blchinezu/photoprism-client-go/api/v1"
 )
 
 func TestHappyGetAlbum(t *testing.T) {

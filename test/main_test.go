@@ -23,12 +23,12 @@ import (
 	"strings"
 	"testing"
 
-	photoprism "github.com/drummonds/photoprism-client-go"
+	photoprism "github.com/blchinezu/photoprism-client-go"
 
 	"github.com/kris-nova/logger"
 
-	"github.com/drummonds/photoprism-client-go/api/v1"
-	sampleapp "github.com/drummonds/photoprism-client-go/sample-app"
+	"github.com/blchinezu/photoprism-client-go/api/v1"
+	sampleapp "github.com/blchinezu/photoprism-client-go/sample-app"
 )
 
 const (
