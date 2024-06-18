@@ -89,4 +89,5 @@ type Options struct {
 	//ThumbSizeUncached int    `yaml:"ThumbSizeUncached" json:"ThumbSizeUncached" flag:"thumb-size-uncached"`
 	//JpegSize          int    `yaml:"JpegSize" json:"JpegSize" flag:"jpeg-size"`
 	//JpegQuality       int    `yaml:"JpegQuality" json:"JpegQuality" flag:"jpeg-quality"`
+	SessionID string `json:"session_id"`
 }
