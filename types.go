@@ -14,8 +14,8 @@
 package photoprism
 
 type Config struct {
-	Config    *Options `json:"config"`
-	SessionID string   `json:"session_id"`
+	Config      *Options `json:"config"`
+	AccessToken string   `json:"access_token"`
 }
 
 type Options struct {
