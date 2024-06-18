@@ -162,7 +162,7 @@ func (c *Client) LoginV1() error {
 
 	token := resp.Header.Get(APIAuthHeaderKey)
 	if token == "" {
-		token = cfg.Config.SessionID
+		token = cfg.SessionID
 		if token == "" {
 			return fmt.Errorf("missing auth token from successful login")
 		}
